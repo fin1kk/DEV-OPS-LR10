@@ -34,3 +34,6 @@
 <img width="1155" height="566" alt="image" src="https://github.com/user-attachments/assets/a75672e0-3908-4138-b8c1-8b92a240fb9c" />
 ### 2. Вывод приложений
 <img width="1187" height="319" alt="image" src="https://github.com/user-attachments/assets/e4705176-b75b-4e5f-9b62-4efe59cf894b" />
+
+
+Выполнил Орлов Артём
