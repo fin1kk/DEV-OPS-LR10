@@ -1,0 +1,11 @@
+
+resources:
+- flask-service.yml
+- flask-deployment.yml
+- redis-service.yml
+- redis-deployment.yml
+
+labels:
+- includeSelectors: true
+  pairs:
+    app: devops-course-2025
